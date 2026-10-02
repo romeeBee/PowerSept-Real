@@ -1,0 +1,15 @@
+{"name":"authAccounts","id":10001}
+{"name":"authRateLimits","id":10002}
+{"name":"authRefreshTokens","id":10003}
+{"name":"authSessions","id":10004}
+{"name":"authVerificationCodes","id":10005}
+{"name":"authVerifiers","id":10006}
+{"name":"users","id":10007}
+{"name":"cartItems","id":10008}
+{"name":"carts","id":10009}
+{"name":"categories","id":10010}
+{"name":"orderItems","id":10011}
+{"name":"orders","id":10012}
+{"name":"products","id":10013}
+{"name":"wishlistItems","id":10014}
+{"name":"contactMessages","id":10015}
